@@ -1,4 +1,6 @@
-# ContactEase Solutions - Interactive Console Application for Contact Management  
+# ContactEase Solutions : Interactive Console Application for Contact Management  
+
+This repository is the first project of the master's degree in AI Engineering with Profession AI.
 
 ContactEase Solutions provides an interactive console application that leverages the principles of Object-Oriented Programming (OOP) in Python, enabling simple and structured contact management. Users can effortlessly save and load contacts in a file format (e.g., JSON), ensuring efficient and secure data handling.
 
